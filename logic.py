@@ -24,3 +24,8 @@ import math
 
 ####################################################################################
 
+# question = input("Would you like some food? (Y/N); ")
+# if question == "Y":
+   # print("Here have some food!")
+#else:
+   # print("Bukhi mar jaa")
