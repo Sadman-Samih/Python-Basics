@@ -15,3 +15,5 @@ elif oparators == "*":
 elif oparators == "/":
     result = num1 / num2
     print(f"the result is {result}")
+else:
+    print("Invalid input")
